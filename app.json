@@ -1,0 +1,7 @@
+{
+    "name": "A simple Ionic app for Heroku",
+    "description": "Devdactic Ionic to Heroku Example",
+    "repository": "https://github.com/brunofrancisco/idiot-ionic",
+    "logo": "http://www.imgworlds.com/wp-content/uploads/2015/12/18-CONTACTUS-HEADER.jpg",
+    "keywords": ["ionic", "idiot", "whatever"]
+}
